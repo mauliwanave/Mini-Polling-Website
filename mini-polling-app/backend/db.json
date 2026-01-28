@@ -1,0 +1,218 @@
+{
+  "polls": [
+    {
+      "question": "Which backend framework do you prefer?",
+      "isActive": true,
+      "createdAt": "2026-01-27",
+      "id": 1
+    },
+    {
+      "question": "Which backend framework do you prefer?",
+      "isActive": true,
+      "createdAt": "2026-01-27",
+      "id": 2
+    },
+    {
+      "question": "Choose lang",
+      "isActive": true,
+      "createdAt": "2026-01-27",
+      "id": 3
+    },
+    {
+      "question": "Choose lang",
+      "isActive": true,
+      "createdAt": "2026-01-27",
+      "id": 4
+    },
+    {
+      "question": "Choose lang",
+      "isActive": true,
+      "createdAt": "2026-01-27",
+      "id": 5
+    },
+    {
+      "question": "lang",
+      "isActive": true,
+      "createdAt": "2026-01-27",
+      "id": 6
+    },
+    {
+      "question": "select option",
+      "isActive": true,
+      "createdAt": "2026-01-28",
+      "id": 7
+    },
+    {
+      "question": "choose city",
+      "isActive": true,
+      "createdAt": "2026-01-28",
+      "id": 8
+    },
+    {
+      "question": "mp",
+      "isActive": true,
+      "createdAt": "2026-01-28",
+      "id": 9
+    },
+    {
+      "question": "select state",
+      "isActive": true,
+      "createdAt": "2026-01-28",
+      "id": 10
+    }
+  ],
+  "options": [
+    {
+      "pollId": 1,
+      "text": "Express",
+      "votes": 2,
+      "id": 1
+    },
+    {
+      "pollId": 1,
+      "text": "Spring Boot",
+      "votes": 0,
+      "id": 2
+    },
+    {
+      "pollId": 2,
+      "text": "Express",
+      "votes": 0,
+      "id": 3
+    },
+    {
+      "pollId": 2,
+      "text": "Spring Boot",
+      "votes": 0,
+      "id": 4
+    },
+    {
+      "pollId": 2,
+      "text": "Django",
+      "votes": 1,
+      "id": 5
+    },
+    {
+      "pollId": 3,
+      "text": "java",
+      "votes": 1,
+      "id": 6
+    },
+    {
+      "pollId": 3,
+      "text": "c++",
+      "votes": 0,
+      "id": 7
+    },
+    {
+      "pollId": 4,
+      "text": "java",
+      "votes": 0,
+      "id": 8
+    },
+    {
+      "pollId": 4,
+      "text": "c++",
+      "votes": 0,
+      "id": 9
+    },
+    {
+      "pollId": 4,
+      "text": "python",
+      "votes": 0,
+      "id": 10
+    },
+    {
+      "pollId": 5,
+      "text": "java",
+      "votes": 0,
+      "id": 11
+    },
+    {
+      "pollId": 5,
+      "text": "c++",
+      "votes": 0,
+      "id": 12
+    },
+    {
+      "pollId": 6,
+      "text": "eng",
+      "votes": 0,
+      "id": 13
+    },
+    {
+      "pollId": 6,
+      "text": "marathi",
+      "votes": 1,
+      "id": 14
+    },
+    {
+      "pollId": 7,
+      "text": "1",
+      "votes": 1,
+      "id": 15
+    },
+    {
+      "pollId": 8,
+      "text": "pune",
+      "votes": 1,
+      "id": 16
+    },
+    {
+      "pollId": 9,
+      "text": "22",
+      "votes": 0,
+      "id": 17
+    },
+    {
+      "pollId": 10,
+      "text": "maharashtra",
+      "votes": 0,
+      "id": 18
+    }
+  ],
+  "votes": [
+    {
+      "pollId": 1,
+      "optionId": 1,
+      "userIp": "::1",
+      "id": 1
+    },
+    {
+      "pollId": 3,
+      "optionId": 6,
+      "userIp": "::1",
+      "id": 2
+    },
+    {
+      "pollId": 2,
+      "optionId": 5,
+      "userIp": "::1",
+      "id": 3
+    },
+    {
+      "pollId": 6,
+      "optionId": 14,
+      "userIp": "::1",
+      "id": 4
+    },
+    {
+      "pollId": 1,
+      "optionId": 1,
+      "userIp": "::ffff:127.0.0.1",
+      "id": 5
+    },
+    {
+      "pollId": 7,
+      "optionId": 15,
+      "userIp": "::1",
+      "id": 6
+    },
+    {
+      "pollId": 8,
+      "optionId": 16,
+      "userIp": "::1",
+      "id": 7
+    }
+  ]
+}
