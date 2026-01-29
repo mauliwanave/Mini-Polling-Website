@@ -59,6 +59,12 @@
       "isActive": true,
       "createdAt": "2026-01-28",
       "id": 10
+    },
+    {
+      "question": "party",
+      "isActive": true,
+      "createdAt": "2026-01-28",
+      "id": 11
     }
   ],
   "options": [
@@ -169,6 +175,18 @@
       "text": "maharashtra",
       "votes": 0,
       "id": 18
+    },
+    {
+      "pollId": 11,
+      "text": "bjp",
+      "votes": 0,
+      "id": 19
+    },
+    {
+      "pollId": 11,
+      "text": "congress",
+      "votes": 1,
+      "id": 20
     }
   ],
   "votes": [
@@ -213,6 +231,12 @@
       "optionId": 16,
       "userIp": "::1",
       "id": 7
+    },
+    {
+      "pollId": 11,
+      "optionId": 20,
+      "userIp": "::1",
+      "id": 8
     }
   ]
 }
